@@ -9,6 +9,8 @@ int main()
     std::cout << "Hello World!\n";
 
     printf("Git hub\n");
+
+    printf("Hello Git branch\n");
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
