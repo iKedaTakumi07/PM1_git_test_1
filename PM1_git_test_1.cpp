@@ -10,7 +10,7 @@ int main()
 
     printf("Git hub\n");
 
-    printf("適当変更!\n");
+    printf("hello branch\n");
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
